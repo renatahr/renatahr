@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renatahr
 - 👀 I’m interested in  contratar talentos de tecnología en compañías a nivel internacional
-- 🌱 I’m currently learning People Analytics con Phyton ¡es dificil pero no imposible!
-- 💞️ I’m looking to collaborate on  voluntariados de gestión de talento  
+- 🌱 I’m currently learning english and Figma.
+- 💞️ I’m looking for Solidity developer, Ruby on Rails tech lead, ReactJs Senior Developer. 
 - 📫 How to reach me  mi mail  es apps.recruiting@gmail.com
 
 <!---
