@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @renatahr
-- 👀 I’m interested in  contratar talentos de tecnología en compañías a nivel internacional
+- 👀 I’m interested in hiring Latam IT talents for projects in US!
 - 🌱 I’m currently learning english and Figma.
-- 💞️ I’m looking for Solidity developer, Ruby on Rails tech lead, ReactJs Senior Developer. 
-- 📫 How to reach me  mi mail  es apps.recruiting@gmail.com
+- 💞️ I’m looking for developers mid or senior (Full Stack, Back End or Front End) Stack: #reactJs #rubyonrails #java #python
+- 📫 How to reach me  mi mail  es apps.recruiting@gmail.com or renata@codefabric.io
 
 <!---
 renatahr/renatahr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
